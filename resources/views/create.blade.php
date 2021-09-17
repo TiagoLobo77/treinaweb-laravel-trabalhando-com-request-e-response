@@ -15,7 +15,7 @@
     <br/>
 
     <label for="idade">Idade: </label>
-    <input type="text" name="Idade">
+    <input type="text" name="idade">
     <br/>
 
     <button type="submit">Enviar</button>
